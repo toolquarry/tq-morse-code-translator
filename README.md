@@ -85,4 +85,4 @@ English Text: HELLO WORLD
 
 ## Author
 
-This program was created by [Adam Canray](https://github.com/toolquarry) at [ToolQuarry](https://github.com/toolquarry).
+This program was created by [Adam Canray](https://github.com/adamcanray) at [ToolQuarry](https://github.com/toolquarry).
