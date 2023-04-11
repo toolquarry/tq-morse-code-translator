@@ -86,3 +86,7 @@ English Text: HELLO WORLD
 ## Author
 
 This program was created by [Adam Canray](https://github.com/adamcanray) at [ToolQuarry](https://github.com/toolquarry).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
